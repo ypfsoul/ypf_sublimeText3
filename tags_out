@@ -1,0 +1,429 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+ApplicationCommand	.\sublime_plugin.py	/^class ApplicationCommand(Command):$/;"	c
+CLASS_EMPTY_LINE	.\sublime.py	/^CLASS_EMPTY_LINE = 256$/;"	v
+CLASS_LINE_END	.\sublime.py	/^CLASS_LINE_END = 128$/;"	v
+CLASS_LINE_START	.\sublime.py	/^CLASS_LINE_START = 64$/;"	v
+CLASS_PUNCTUATION_END	.\sublime.py	/^CLASS_PUNCTUATION_END = 8$/;"	v
+CLASS_PUNCTUATION_START	.\sublime.py	/^CLASS_PUNCTUATION_START = 4$/;"	v
+CLASS_SUB_WORD_END	.\sublime.py	/^CLASS_SUB_WORD_END = 32$/;"	v
+CLASS_SUB_WORD_START	.\sublime.py	/^CLASS_SUB_WORD_START = 16$/;"	v
+CLASS_WORD_END	.\sublime.py	/^CLASS_WORD_END = 2$/;"	v
+CLASS_WORD_START	.\sublime.py	/^CLASS_WORD_START = 1$/;"	v
+COOPERATE_WITH_AUTO_COMPLETE	.\sublime.py	/^COOPERATE_WITH_AUTO_COMPLETE = 2$/;"	v
+Command	.\sublime_plugin.py	/^class Command(object):$/;"	c
+DIALOG_CANCEL	.\sublime.py	/^DIALOG_CANCEL = 0$/;"	v
+DIALOG_NO	.\sublime.py	/^DIALOG_NO = 2$/;"	v
+DIALOG_YES	.\sublime.py	/^DIALOG_YES = 1$/;"	v
+DRAW_EMPTY	.\sublime.py	/^DRAW_EMPTY = 1$/;"	v
+DRAW_EMPTY_AS_OVERWRITE	.\sublime.py	/^DRAW_EMPTY_AS_OVERWRITE = 4$/;"	v
+DRAW_NO_FILL	.\sublime.py	/^DRAW_NO_FILL = 32$/;"	v
+DRAW_NO_OUTLINE	.\sublime.py	/^DRAW_NO_OUTLINE = 256$/;"	v
+DRAW_OUTLINED	.\sublime.py	/^DRAW_OUTLINED = 32$/;"	v
+DRAW_SOLID_UNDERLINE	.\sublime.py	/^DRAW_SOLID_UNDERLINE = 512$/;"	v
+DRAW_SQUIGGLY_UNDERLINE	.\sublime.py	/^DRAW_SQUIGGLY_UNDERLINE = 2048$/;"	v
+DRAW_STIPPLED_UNDERLINE	.\sublime.py	/^DRAW_STIPPLED_UNDERLINE = 1024$/;"	v
+ENCODED_POSITION	.\sublime.py	/^ENCODED_POSITION = 1$/;"	v
+Edit	.\sublime.py	/^class Edit(object):$/;"	c
+EventListener	.\sublime_plugin.py	/^class EventListener(object):$/;"	c
+FORCE_GROUP	.\sublime.py	/^FORCE_GROUP = 8$/;"	v
+HIDDEN	.\sublime.py	/^HIDDEN = 128$/;"	v
+HIDE_ON_MINIMAP	.\sublime.py	/^HIDE_ON_MINIMAP = 2$/;"	v
+HIDE_ON_MOUSE_MOVE	.\sublime.py	/^HIDE_ON_MOUSE_MOVE = 4$/;"	v
+HIDE_ON_MOUSE_MOVE_AWAY	.\sublime.py	/^HIDE_ON_MOUSE_MOVE_AWAY = 8$/;"	v
+HOVER_GUTTER	.\sublime.py	/^HOVER_GUTTER = 2$/;"	v
+HOVER_MARGIN	.\sublime.py	/^HOVER_MARGIN = 3$/;"	v
+HOVER_TEXT	.\sublime.py	/^HOVER_TEXT = 1$/;"	v
+HTML	.\sublime.py	/^HTML = 1$/;"	v
+IGNORECASE	.\sublime.py	/^IGNORECASE = 2$/;"	v
+INHIBIT_EXPLICIT_COMPLETIONS	.\sublime.py	/^INHIBIT_EXPLICIT_COMPLETIONS = 16$/;"	v
+INHIBIT_WORD_COMPLETIONS	.\sublime.py	/^INHIBIT_WORD_COMPLETIONS = 8$/;"	v
+KEEP_OPEN_ON_FOCUS_LOST	.\sublime.py	/^KEEP_OPEN_ON_FOCUS_LOST = 2$/;"	v
+LAYOUT_BELOW	.\sublime.py	/^LAYOUT_BELOW = 1$/;"	v
+LAYOUT_BLOCK	.\sublime.py	/^LAYOUT_BLOCK = 2$/;"	v
+LAYOUT_INLINE	.\sublime.py	/^LAYOUT_INLINE = 0$/;"	v
+LITERAL	.\sublime.py	/^LITERAL = 1$/;"	v
+MONOSPACE_FONT	.\sublime.py	/^MONOSPACE_FONT = 1$/;"	v
+MultizipImporter	.\sublime_plugin.py	/^class MultizipImporter(object):$/;"	c
+OP_EQUAL	.\sublime.py	/^OP_EQUAL = 0$/;"	v
+OP_NOT_EQUAL	.\sublime.py	/^OP_NOT_EQUAL = 1$/;"	v
+OP_NOT_REGEX_CONTAINS	.\sublime.py	/^OP_NOT_REGEX_CONTAINS = 5$/;"	v
+OP_NOT_REGEX_MATCH	.\sublime.py	/^OP_NOT_REGEX_MATCH = 3$/;"	v
+OP_REGEX_CONTAINS	.\sublime.py	/^OP_REGEX_CONTAINS = 4$/;"	v
+OP_REGEX_MATCH	.\sublime.py	/^OP_REGEX_MATCH = 2$/;"	v
+PERSISTENT	.\sublime.py	/^PERSISTENT = 16$/;"	v
+Phantom	.\sublime.py	/^class Phantom(object):$/;"	c
+PhantomSet	.\sublime.py	/^class PhantomSet(object):$/;"	c
+Region	.\sublime.py	/^class Region(object):$/;"	c
+Selection	.\sublime.py	/^class Selection(object):$/;"	c
+Settings	.\sublime.py	/^class Settings(object):$/;"	c
+Sheet	.\sublime.py	/^class Sheet(object):$/;"	c
+Summary	.\sublime_plugin.py	/^class Summary(object):$/;"	c
+TRANSIENT	.\sublime.py	/^TRANSIENT = 4$/;"	v
+TextCommand	.\sublime_plugin.py	/^class TextCommand(Command):$/;"	c
+UI_ELEMENT_MENU	.\sublime.py	/^UI_ELEMENT_MENU = 16$/;"	v
+UI_ELEMENT_MINIMAP	.\sublime.py	/^UI_ELEMENT_MINIMAP = 2$/;"	v
+UI_ELEMENT_OPEN_FILES	.\sublime.py	/^UI_ELEMENT_OPEN_FILES = 32$/;"	v
+UI_ELEMENT_SIDE_BAR	.\sublime.py	/^UI_ELEMENT_SIDE_BAR = 1$/;"	v
+UI_ELEMENT_STATUS_BAR	.\sublime.py	/^UI_ELEMENT_STATUS_BAR = 8$/;"	v
+UI_ELEMENT_TABS	.\sublime.py	/^UI_ELEMENT_TABS = 4$/;"	v
+View	.\sublime.py	/^class View(object):$/;"	c
+ViewEventListener	.\sublime_plugin.py	/^class ViewEventListener(object):$/;"	c
+Window	.\sublime.py	/^class Window(object):$/;"	c
+WindowCommand	.\sublime_plugin.py	/^class WindowCommand(Command):$/;"	c
+ZipLoader	.\sublime_plugin.py	/^class ZipLoader(object):$/;"	c
+_LogWriter	.\sublime.py	/^class _LogWriter:$/;"	c
+__bool__	.\sublime.py	/^    def __bool__(self):$/;"	m	class:Selection	file:
+__bool__	.\sublime.py	/^    def __bool__(self):$/;"	m	class:View	file:
+__bool__	.\sublime.py	/^    def __bool__(self):$/;"	m	class:Window	file:
+__del__	.\sublime.py	/^    def __del__(self):$/;"	m	class:PhantomSet	file:
+__delitem__	.\sublime.py	/^    def __delitem__(self, index):$/;"	m	class:Selection	file:
+__eq__	.\sublime.py	/^    def __eq__(self, other):$/;"	m	class:Sheet	file:
+__eq__	.\sublime.py	/^    def __eq__(self, other):$/;"	m	class:View	file:
+__eq__	.\sublime.py	/^    def __eq__(self, other):$/;"	m	class:Window	file:
+__eq__	.\sublime.py	/^    def __eq__(self, rhs):$/;"	m	class:Phantom	file:
+__eq__	.\sublime.py	/^    def __eq__(self, rhs):$/;"	m	class:Region	file:
+__eq__	.\sublime.py	/^    def __eq__(self, rhs):$/;"	m	class:Selection	file:
+__getitem__	.\sublime.py	/^    def __getitem__(self, index):$/;"	m	class:Selection	file:
+__init__	.\sublime.py	/^    def __init__(self, a, b=None, xpos=-1):$/;"	m	class:Region
+__init__	.\sublime.py	/^    def __init__(self, id):$/;"	m	class:Selection
+__init__	.\sublime.py	/^    def __init__(self, id):$/;"	m	class:Settings
+__init__	.\sublime.py	/^    def __init__(self, id):$/;"	m	class:Sheet
+__init__	.\sublime.py	/^    def __init__(self, id):$/;"	m	class:View
+__init__	.\sublime.py	/^    def __init__(self, id):$/;"	m	class:Window
+__init__	.\sublime.py	/^    def __init__(self, region, content, layout, on_navigate=None):$/;"	m	class:Phantom
+__init__	.\sublime.py	/^    def __init__(self, token):$/;"	m	class:Edit
+__init__	.\sublime.py	/^    def __init__(self, view, key=""):$/;"	m	class:PhantomSet
+__init__	.\sublime_plugin.py	/^    def __init__(self):$/;"	m	class:MultizipImporter
+__init__	.\sublime_plugin.py	/^    def __init__(self):$/;"	m	class:Summary
+__init__	.\sublime_plugin.py	/^    def __init__(self, view):$/;"	m	class:TextCommand
+__init__	.\sublime_plugin.py	/^    def __init__(self, view):$/;"	m	class:ViewEventListener
+__init__	.\sublime_plugin.py	/^    def __init__(self, window):$/;"	m	class:WindowCommand
+__init__	.\sublime_plugin.py	/^    def __init__(self, zippath):$/;"	m	class:ZipLoader
+__len__	.\sublime.py	/^    def __len__(self):$/;"	m	class:Region	file:
+__len__	.\sublime.py	/^    def __len__(self):$/;"	m	class:Selection	file:
+__len__	.\sublime.py	/^    def __len__(self):$/;"	m	class:View	file:
+__lt__	.\sublime.py	/^    def __lt__(self, rhs):$/;"	m	class:Region	file:
+__lt__	.\sublime.py	/^    def __lt__(self, rhs):$/;"	m	class:Selection	file:
+__repr__	.\sublime.py	/^    def __repr__(self):$/;"	m	class:Region	file:
+__slots__	.\sublime.py	/^    __slots__ = ['a', 'b', 'xpos']$/;"	v	class:Region
+__str__	.\sublime.py	/^    def __str__(self):$/;"	m	class:Region	file:
+__str__	.\sublime_plugin.py	/^    def __str__(self):$/;"	m	class:Summary	file:
+_read_source	.\sublime_plugin.py	/^    def _read_source(self, fullname):$/;"	m	class:ZipLoader
+_scan_zip	.\sublime_plugin.py	/^    def _scan_zip(self):$/;"	m	class:ZipLoader
+active_group	.\sublime.py	/^    def active_group(self):$/;"	m	class:Window
+active_panel	.\sublime.py	/^    def active_panel(self):$/;"	m	class:Window
+active_sheet	.\sublime.py	/^    def active_sheet(self):$/;"	m	class:Window
+active_sheet_in_group	.\sublime.py	/^    def active_sheet_in_group(self, group):$/;"	m	class:Window
+active_view	.\sublime.py	/^    def active_view(self):$/;"	m	class:Window
+active_view_in_group	.\sublime.py	/^    def active_view_in_group(self, group):$/;"	m	class:Window
+active_window	.\sublime.py	/^def active_window():$/;"	f
+add	.\sublime.py	/^    def add(self, x):$/;"	m	class:Selection
+add_all	.\sublime.py	/^    def add_all(self, regions):$/;"	m	class:Selection
+add_on_change	.\sublime.py	/^    def add_on_change(self, tag, callback):$/;"	m	class:Settings
+add_phantom	.\sublime.py	/^    def add_phantom(self, key, region, content, layout, on_navigate=None):$/;"	m	class:View
+add_regions	.\sublime.py	/^    def add_regions(self, key, regions, scope="", icon="", flags=0):$/;"	m	class:View
+all_callbacks	.\sublime_plugin.py	/^all_callbacks = {$/;"	v
+all_command_classes	.\sublime_plugin.py	/^all_command_classes = [$/;"	v
+api_ready	.\sublime_plugin.py	/^api_ready = False$/;"	v
+application_command_classes	.\sublime_plugin.py	/^application_command_classes = []$/;"	v
+applies_to_primary_view_only	.\sublime_plugin.py	/^    def applies_to_primary_view_only(cls):$/;"	m	class:ViewEventListener
+arch	.\sublime.py	/^def arch():$/;"	f
+assign_syntax	.\sublime.py	/^    def assign_syntax(self, syntax_file):$/;"	m	class:View
+attach_view	.\sublime_plugin.py	/^def attach_view(view):$/;"	f
+begin	.\sublime.py	/^    def begin(self):$/;"	m	class:Region
+begin_edit	.\sublime.py	/^    def begin_edit(self, edit_token, cmd, args=None):$/;"	m	class:View
+buffer_id	.\sublime.py	/^    def buffer_id(self):$/;"	m	class:View
+cache_path	.\sublime.py	/^def cache_path():$/;"	f
+change_count	.\sublime.py	/^    def change_count(self):$/;"	m	class:View
+channel	.\sublime.py	/^def channel():$/;"	f
+check_all_view_event_listeners	.\sublime_plugin.py	/^def check_all_view_event_listeners():$/;"	f
+check_all_view_event_listeners_scheduled	.\sublime_plugin.py	/^check_all_view_event_listeners_scheduled = False$/;"	v
+check_view_event_listeners	.\sublime_plugin.py	/^def check_view_event_listeners(view):$/;"	f
+classify	.\sublime.py	/^    def classify(self, pt):$/;"	m	class:View
+clear	.\sublime.py	/^    def clear(self):$/;"	m	class:Selection
+clear_on_change	.\sublime.py	/^    def clear_on_change(self, tag):$/;"	m	class:Settings
+close	.\sublime.py	/^    def close(self):$/;"	m	class:View
+command_history	.\sublime.py	/^    def command_history(self, delta, modifying_only=False):$/;"	m	class:View
+contains	.\sublime.py	/^    def contains(self, region):$/;"	m	class:Selection
+contains	.\sublime.py	/^    def contains(self, x):$/;"	m	class:Region
+cover	.\sublime.py	/^    def cover(self, rhs):$/;"	m	class:Region
+create_application_commands	.\sublime_plugin.py	/^def create_application_commands():$/;"	f
+create_output_panel	.\sublime.py	/^    def create_output_panel(self, name, unlisted=False):$/;"	m	class:Window
+create_text_commands	.\sublime_plugin.py	/^def create_text_commands(view_id):$/;"	f
+create_view_event_listeners	.\sublime_plugin.py	/^def create_view_event_listeners(classes, view):$/;"	f
+create_window_commands	.\sublime_plugin.py	/^def create_window_commands(window_id):$/;"	f
+decode_value	.\sublime.py	/^def decode_value(data):$/;"	f
+description	.\sublime_plugin.py	/^    def description(self):$/;"	m	class:Command
+description_	.\sublime_plugin.py	/^    def description_(self, args):$/;"	m	class:Command
+destroy_output_panel	.\sublime.py	/^    def destroy_output_panel(self, name):$/;"	m	class:Window
+detach_view	.\sublime_plugin.py	/^def detach_view(view):$/;"	f
+em_width	.\sublime.py	/^    def em_width(self):$/;"	m	class:View
+empty	.\sublime.py	/^    def empty(self):$/;"	m	class:Region
+encode_value	.\sublime.py	/^def encode_value(val, pretty=False):$/;"	f
+encoding	.\sublime.py	/^    def encoding(self):$/;"	m	class:View
+end	.\sublime.py	/^    def end(self):$/;"	m	class:Region
+end_edit	.\sublime.py	/^    def end_edit(self, edit):$/;"	m	class:View
+erase	.\sublime.py	/^    def erase(self, edit, r):$/;"	m	class:View
+erase	.\sublime.py	/^    def erase(self, key):$/;"	m	class:Settings
+erase_phantom_by_id	.\sublime.py	/^    def erase_phantom_by_id(self, pid):$/;"	m	class:View
+erase_phantoms	.\sublime.py	/^    def erase_phantoms(self, key):$/;"	m	class:View
+erase_regions	.\sublime.py	/^    def erase_regions(self, key):$/;"	m	class:View
+erase_status	.\sublime.py	/^    def erase_status(self, key):$/;"	m	class:View
+error_message	.\sublime.py	/^def error_message(msg):$/;"	f
+event_listeners_for_view	.\sublime_plugin.py	/^def event_listeners_for_view(view):$/;"	f
+executable_hash	.\sublime.py	/^def executable_hash():$/;"	f
+executable_path	.\sublime.py	/^def executable_path():$/;"	f
+expand_by_class	.\sublime.py	/^    def expand_by_class(self, x, classes, separators=""):$/;"	m	class:View
+expand_variables	.\sublime.py	/^def expand_variables(val, variables):$/;"	f
+extract_completions	.\sublime.py	/^    def extract_completions(self, prefix, tp=-1):$/;"	m	class:View
+extract_scope	.\sublime.py	/^    def extract_scope(self, pt):$/;"	m	class:View
+extract_variables	.\sublime.py	/^    def extract_variables(self):$/;"	m	class:Window
+file_name	.\sublime.py	/^    def file_name(self):$/;"	m	class:View
+filter_args	.\sublime_plugin.py	/^    def filter_args(self, args):$/;"	m	class:Command
+find	.\sublime.py	/^    def find(self, pattern, start_pt, flags=0):$/;"	m	class:View
+find_all	.\sublime.py	/^    def find_all(self, pattern, flags=0, fmt=None, extractions=None):$/;"	m	class:View
+find_all_results	.\sublime.py	/^    def find_all_results(self):$/;"	m	class:View
+find_all_results_with_text	.\sublime.py	/^    def find_all_results_with_text(self):$/;"	m	class:View
+find_by_class	.\sublime.py	/^    def find_by_class(self, pt, forward, classes, separators=""):$/;"	m	class:View
+find_by_selector	.\sublime.py	/^    def find_by_selector(self, selector):$/;"	m	class:View
+find_module	.\sublime_plugin.py	/^    def find_module(self, fullname, path=None):$/;"	m	class:MultizipImporter
+find_open_file	.\sublime.py	/^    def find_open_file(self, fname):$/;"	m	class:Window
+find_output_panel	.\sublime.py	/^    def find_output_panel(self, name):$/;"	m	class:Window
+find_resources	.\sublime.py	/^def find_resources(pattern):$/;"	f
+find_view_event_listener	.\sublime_plugin.py	/^def find_view_event_listener(view, cls):$/;"	f
+flush	.\sublime.py	/^    def flush(self):$/;"	m	class:_LogWriter
+focus_group	.\sublime.py	/^    def focus_group(self, idx):$/;"	m	class:Window
+focus_sheet	.\sublime.py	/^    def focus_sheet(self, sheet):$/;"	m	class:Window
+focus_view	.\sublime.py	/^    def focus_view(self, view):$/;"	m	class:Window
+fold	.\sublime.py	/^    def fold(self, x):$/;"	m	class:View
+folded_regions	.\sublime.py	/^    def folded_regions(self):$/;"	m	class:View
+folders	.\sublime.py	/^    def folders(self):$/;"	m	class:Window
+full_line	.\sublime.py	/^    def full_line(self, x):$/;"	m	class:View
+get	.\sublime.py	/^    def get(self, key, default=None):$/;"	m	class:Settings
+get_clipboard	.\sublime.py	/^def get_clipboard(size_limit=16777216):$/;"	f
+get_layout	.\sublime.py	/^    def get_layout(self):$/;"	m	class:Window
+get_macro	.\sublime.py	/^def get_macro():$/;"	f
+get_output_panel	.\sublime.py	/^    def get_output_panel(self, name):$/;"	m	class:Window
+get_regions	.\sublime.py	/^    def get_regions(self, key):$/;"	m	class:View
+get_sheet_index	.\sublime.py	/^    def get_sheet_index(self, sheet):$/;"	m	class:Window
+get_status	.\sublime.py	/^    def get_status(self, key):$/;"	m	class:View
+get_symbols	.\sublime.py	/^    def get_symbols(self):$/;"	m	class:View
+get_tabs_visible	.\sublime.py	/^    def get_tabs_visible(self):$/;"	m	class:Window
+get_view_index	.\sublime.py	/^    def get_view_index(self, view):$/;"	m	class:Window
+has	.\sublime.py	/^    def has(self, key):$/;"	m	class:Settings
+has	.\sublime_plugin.py	/^    def has(self, fullname):$/;"	m	class:ZipLoader
+has_non_empty_selection_region	.\sublime.py	/^    def has_non_empty_selection_region(self):$/;"	m	class:View
+hashlib	.\sublime.py	/^    import hashlib$/;"	i
+hide_popup	.\sublime.py	/^    def hide_popup(self):$/;"	m	class:View
+hwnd	.\sublime.py	/^    def hwnd(self):$/;"	m	class:Window
+id	.\sublime.py	/^    def id(self):$/;"	m	class:Sheet
+id	.\sublime.py	/^    def id(self):$/;"	m	class:View
+id	.\sublime.py	/^    def id(self):$/;"	m	class:Window
+imp	.\sublime_plugin.py	/^import imp$/;"	i
+importlib	.\sublime_plugin.py	/^import importlib$/;"	i
+indentation_level	.\sublime.py	/^    def indentation_level(self, pt):$/;"	m	class:View
+indented_region	.\sublime.py	/^    def indented_region(self, pt):$/;"	m	class:View
+indexed_symbols	.\sublime.py	/^    def indexed_symbols(self):$/;"	m	class:View
+insert	.\sublime.py	/^    def insert(self, edit, pt, text):$/;"	m	class:View
+installed_packages_path	.\sublime.py	/^def installed_packages_path():$/;"	f
+intersection	.\sublime.py	/^    def intersection(self, rhs):$/;"	m	class:Region
+intersects	.\sublime.py	/^    def intersects(self, rhs):$/;"	m	class:Region
+is_applicable	.\sublime_plugin.py	/^    def is_applicable(cls, settings):$/;"	m	class:ViewEventListener
+is_auto_complete_visible	.\sublime.py	/^    def is_auto_complete_visible(self):$/;"	m	class:View
+is_checked	.\sublime_plugin.py	/^    def is_checked(self):$/;"	m	class:Command
+is_checked_	.\sublime_plugin.py	/^    def is_checked_(self, args):$/;"	m	class:Command
+is_dirty	.\sublime.py	/^    def is_dirty(self):$/;"	m	class:View
+is_enabled	.\sublime_plugin.py	/^    def is_enabled(self):$/;"	m	class:Command
+is_enabled_	.\sublime_plugin.py	/^    def is_enabled_(self, args):$/;"	m	class:Command
+is_folded	.\sublime.py	/^    def is_folded(self, sr):$/;"	m	class:View
+is_in_edit	.\sublime.py	/^    def is_in_edit(self):$/;"	m	class:View
+is_loading	.\sublime.py	/^    def is_loading(self):$/;"	m	class:View
+is_menu_visible	.\sublime.py	/^    def is_menu_visible(self):$/;"	m	class:Window
+is_minimap_visible	.\sublime.py	/^    def is_minimap_visible(self):$/;"	m	class:Window
+is_popup_visible	.\sublime.py	/^    def is_popup_visible(self):$/;"	m	class:View
+is_primary	.\sublime.py	/^    def is_primary(self):$/;"	m	class:View
+is_read_only	.\sublime.py	/^    def is_read_only(self):$/;"	m	class:View
+is_scratch	.\sublime.py	/^    def is_scratch(self):$/;"	m	class:View
+is_sidebar_visible	.\sublime.py	/^    def is_sidebar_visible(self):$/;"	m	class:Window
+is_status_bar_visible	.\sublime.py	/^    def is_status_bar_visible(self):$/;"	m	class:Window
+is_valid	.\sublime.py	/^    def is_valid(self):$/;"	m	class:Selection
+is_valid	.\sublime.py	/^    def is_valid(self):$/;"	m	class:View
+is_valid	.\sublime.py	/^    def is_valid(self):$/;"	m	class:Window
+is_view_event_listener_applicable	.\sublime_plugin.py	/^def is_view_event_listener_applicable(cls, view):$/;"	f
+is_visible	.\sublime_plugin.py	/^    def is_visible(self):$/;"	m	class:Command
+is_visible_	.\sublime_plugin.py	/^    def is_visible_(self, args):$/;"	m	class:Command
+layout	.\sublime.py	/^    def layout(self):$/;"	m	class:Window
+layout_extent	.\sublime.py	/^    def layout_extent(self):$/;"	m	class:View
+layout_to_text	.\sublime.py	/^    def layout_to_text(self, xy):$/;"	m	class:View
+line	.\sublime.py	/^    def line(self, x):$/;"	m	class:View
+line_endings	.\sublime.py	/^    def line_endings(self):$/;"	m	class:View
+line_height	.\sublime.py	/^    def line_height(self):$/;"	m	class:View
+lines	.\sublime.py	/^    def lines(self, r):$/;"	m	class:View
+load_binary_resource	.\sublime.py	/^def load_binary_resource(name):$/;"	f
+load_module	.\sublime_plugin.py	/^    def load_module(self, fullname):$/;"	m	class:ZipLoader
+load_resource	.\sublime.py	/^def load_resource(name):$/;"	f
+load_settings	.\sublime.py	/^def load_settings(base_name):$/;"	f
+log_build_systems	.\sublime.py	/^def log_build_systems(flag):$/;"	f
+log_commands	.\sublime.py	/^def log_commands(flag):$/;"	f
+log_indexing	.\sublime.py	/^def log_indexing(flag):$/;"	f
+log_input	.\sublime.py	/^def log_input(flag):$/;"	f
+log_result_regex	.\sublime.py	/^def log_result_regex(flag):$/;"	f
+lookup_symbol_in_index	.\sublime.py	/^    def lookup_symbol_in_index(self, sym):$/;"	m	class:Window
+lookup_symbol_in_open_files	.\sublime.py	/^    def lookup_symbol_in_open_files(self, sym):$/;"	m	class:Window
+match_selector	.\sublime.py	/^    def match_selector(self, pt, selector):$/;"	m	class:View
+message_dialog	.\sublime.py	/^def message_dialog(msg):$/;"	f
+meta_info	.\sublime.py	/^    def meta_info(self, key, pt):$/;"	m	class:View
+multi_importer	.\sublime_plugin.py	/^multi_importer = MultizipImporter()$/;"	v
+name	.\sublime.py	/^    def name(self):$/;"	m	class:View
+name	.\sublime_plugin.py	/^    def name(self):$/;"	m	class:Command
+new_file	.\sublime.py	/^    def new_file(self, flags=0, syntax=""):$/;"	m	class:Window
+normalise_completion	.\sublime_plugin.py	/^def normalise_completion(c):$/;"	f
+num_groups	.\sublime.py	/^    def num_groups(self):$/;"	m	class:Window
+ok_cancel_dialog	.\sublime.py	/^def ok_cancel_dialog(msg, ok_title=""):$/;"	f
+on_activated	.\sublime_plugin.py	/^def on_activated(view_id):$/;"	f
+on_activated_async	.\sublime_plugin.py	/^def on_activated_async(view_id):$/;"	f
+on_api_ready	.\sublime_plugin.py	/^def on_api_ready():$/;"	f
+on_clone	.\sublime_plugin.py	/^def on_clone(view_id):$/;"	f
+on_clone_async	.\sublime_plugin.py	/^def on_clone_async(view_id):$/;"	f
+on_close	.\sublime_plugin.py	/^def on_close(view_id):$/;"	f
+on_deactivated	.\sublime_plugin.py	/^def on_deactivated(view_id):$/;"	f
+on_deactivated_async	.\sublime_plugin.py	/^def on_deactivated_async(view_id):$/;"	f
+on_hover	.\sublime_plugin.py	/^def on_hover(view_id, point, hover_zone):$/;"	f
+on_load	.\sublime_plugin.py	/^def on_load(view_id):$/;"	f
+on_load_async	.\sublime_plugin.py	/^def on_load_async(view_id):$/;"	f
+on_modified	.\sublime_plugin.py	/^def on_modified(view_id):$/;"	f
+on_modified_async	.\sublime_plugin.py	/^def on_modified_async(view_id):$/;"	f
+on_new	.\sublime_plugin.py	/^def on_new(view_id):$/;"	f
+on_new_async	.\sublime_plugin.py	/^def on_new_async(view_id):$/;"	f
+on_post_save	.\sublime_plugin.py	/^def on_post_save(view_id):$/;"	f
+on_post_save_async	.\sublime_plugin.py	/^def on_post_save_async(view_id):$/;"	f
+on_post_text_command	.\sublime_plugin.py	/^def on_post_text_command(view_id, name, args):$/;"	f
+on_post_window_command	.\sublime_plugin.py	/^def on_post_window_command(window_id, name, args):$/;"	f
+on_pre_close	.\sublime_plugin.py	/^def on_pre_close(view_id):$/;"	f
+on_pre_save	.\sublime_plugin.py	/^def on_pre_save(view_id):$/;"	f
+on_pre_save_async	.\sublime_plugin.py	/^def on_pre_save_async(view_id):$/;"	f
+on_query_completions	.\sublime_plugin.py	/^def on_query_completions(view_id, prefix, locations):$/;"	f
+on_query_context	.\sublime_plugin.py	/^def on_query_context(view_id, key, operator, operand, match_all):$/;"	f
+on_selection_modified	.\sublime_plugin.py	/^def on_selection_modified(view_id):$/;"	f
+on_selection_modified_async	.\sublime_plugin.py	/^def on_selection_modified_async(view_id):$/;"	f
+on_text_command	.\sublime_plugin.py	/^def on_text_command(view_id, name, args):$/;"	f
+on_window_command	.\sublime_plugin.py	/^def on_window_command(window_id, name, args):$/;"	f
+open_file	.\sublime.py	/^    def open_file(self, fname, flags=0, group=-1):$/;"	m	class:Window
+os	.\sublime_plugin.py	/^import os$/;"	i
+override_path	.\sublime_plugin.py	/^override_path = None$/;"	v
+overwrite_status	.\sublime.py	/^    def overwrite_status(self):$/;"	m	class:View
+packages_path	.\sublime.py	/^def packages_path():$/;"	f
+panels	.\sublime.py	/^    def panels(self):$/;"	m	class:Window
+platform	.\sublime.py	/^def platform():$/;"	f
+profile	.\sublime_plugin.py	/^profile = {}$/;"	v
+project_data	.\sublime.py	/^    def project_data(self):$/;"	m	class:Window
+project_file_name	.\sublime.py	/^    def project_file_name(self):$/;"	m	class:Window
+query_phantom	.\sublime.py	/^    def query_phantom(self, pid):$/;"	m	class:View
+query_phantoms	.\sublime.py	/^    def query_phantoms(self, pids):$/;"	m	class:View
+record	.\sublime_plugin.py	/^    def record(self, x):$/;"	m	class:Summary
+reload_plugin	.\sublime_plugin.py	/^def reload_plugin(modulename):$/;"	f
+replace	.\sublime.py	/^    def replace(self, edit, r, text):$/;"	m	class:View
+retarget	.\sublime.py	/^    def retarget(self, new_fname):$/;"	m	class:View
+rowcol	.\sublime.py	/^    def rowcol(self, tp):$/;"	m	class:View
+run	.\sublime_plugin.py	/^    def run(self):$/;"	m	class:ApplicationCommand
+run	.\sublime_plugin.py	/^    def run(self):$/;"	m	class:WindowCommand
+run	.\sublime_plugin.py	/^    def run(self, edit):$/;"	m	class:TextCommand
+run_	.\sublime_plugin.py	/^    def run_(self, edit_token, args):$/;"	m	class:ApplicationCommand
+run_	.\sublime_plugin.py	/^    def run_(self, edit_token, args):$/;"	m	class:TextCommand
+run_	.\sublime_plugin.py	/^    def run_(self, edit_token, args):$/;"	m	class:WindowCommand
+run_async_view_listener_callback	.\sublime_plugin.py	/^def run_async_view_listener_callback(view, name):$/;"	f
+run_callback	.\sublime_plugin.py	/^def run_callback(event, callback, expr):$/;"	f
+run_command	.\sublime.py	/^    def run_command(self, cmd, args=None):$/;"	m	class:View
+run_command	.\sublime.py	/^    def run_command(self, cmd, args=None):$/;"	m	class:Window
+run_command	.\sublime.py	/^def run_command(cmd, args=None):$/;"	f
+run_view_listener_callback	.\sublime_plugin.py	/^def run_view_listener_callback(view, name):$/;"	f
+save_settings	.\sublime.py	/^def save_settings(base_name):$/;"	f
+scope_name	.\sublime.py	/^    def scope_name(self, pt):$/;"	m	class:View
+score_selector	.\sublime.py	/^    def score_selector(self, pt, selector):$/;"	m	class:View
+score_selector	.\sublime.py	/^def score_selector(scope_name, selector):$/;"	f
+sel	.\sublime.py	/^    def sel(self):$/;"	m	class:View
+set	.\sublime.py	/^    def set(self, key, value):$/;"	m	class:Settings
+set_clipboard	.\sublime.py	/^def set_clipboard(text):$/;"	f
+set_encoding	.\sublime.py	/^    def set_encoding(self, encoding_name):$/;"	m	class:View
+set_layout	.\sublime.py	/^    def set_layout(self, layout):$/;"	m	class:Window
+set_line_endings	.\sublime.py	/^    def set_line_endings(self, line_ending_name):$/;"	m	class:View
+set_menu_visible	.\sublime.py	/^    def set_menu_visible(self, flag):$/;"	m	class:Window
+set_minimap_visible	.\sublime.py	/^    def set_minimap_visible(self, flag):$/;"	m	class:Window
+set_name	.\sublime.py	/^    def set_name(self, name):$/;"	m	class:View
+set_override_path	.\sublime_plugin.py	/^def set_override_path(path):$/;"	f
+set_overwrite_status	.\sublime.py	/^    def set_overwrite_status(self, value):$/;"	m	class:View
+set_project_data	.\sublime.py	/^    def set_project_data(self, v):$/;"	m	class:Window
+set_read_only	.\sublime.py	/^    def set_read_only(self, read_only):$/;"	m	class:View
+set_scratch	.\sublime.py	/^    def set_scratch(self, scratch):$/;"	m	class:View
+set_sheet_index	.\sublime.py	/^    def set_sheet_index(self, sheet, group, idx):$/;"	m	class:Window
+set_sidebar_visible	.\sublime.py	/^    def set_sidebar_visible(self, flag):$/;"	m	class:Window
+set_status	.\sublime.py	/^    def set_status(self, key, value):$/;"	m	class:View
+set_status_bar_visible	.\sublime.py	/^    def set_status_bar_visible(self, flag):$/;"	m	class:Window
+set_syntax_file	.\sublime.py	/^    def set_syntax_file(self, syntax_file):$/;"	m	class:View
+set_tabs_visible	.\sublime.py	/^    def set_tabs_visible(self, flag):$/;"	m	class:Window
+set_timeout	.\sublime.py	/^def set_timeout(f, timeout_ms=0):$/;"	f
+set_timeout_async	.\sublime.py	/^def set_timeout_async(f, timeout_ms=0):$/;"	f
+set_view_index	.\sublime.py	/^    def set_view_index(self, view, group, idx):$/;"	m	class:Window
+set_viewport_position	.\sublime.py	/^    def set_viewport_position(self, xy, animate=True):$/;"	m	class:View
+settings	.\sublime.py	/^    def settings(self):$/;"	m	class:View
+settings	.\sublime.py	/^    def settings(self):$/;"	m	class:Window
+sheets	.\sublime.py	/^    def sheets(self):$/;"	m	class:Window
+sheets_in_group	.\sublime.py	/^    def sheets_in_group(self, group):$/;"	m	class:Window
+show	.\sublime.py	/^    def show(self, x, show_surrounds=True):$/;"	m	class:View
+show_at_center	.\sublime.py	/^    def show_at_center(self, x):$/;"	m	class:View
+show_input_panel	.\sublime.py	/^    def show_input_panel(self, caption, initial_text, on_done, on_change, on_cancel):$/;"	m	class:Window
+show_popup	.\sublime.py	/^    def show_popup(self, content, flags=0, location=-1,$/;"	m	class:View
+show_popup_menu	.\sublime.py	/^    def show_popup_menu(self, items, on_select, flags=0):$/;"	m	class:View
+show_quick_panel	.\sublime.py	/^    def show_quick_panel(self, items, on_select, flags=0, selected_index=-1, on_highlight=None):$/;"	m	class:Window
+size	.\sublime.py	/^    def size(self):$/;"	m	class:Region
+size	.\sublime.py	/^    def size(self):$/;"	m	class:View
+split_by_newlines	.\sublime.py	/^    def split_by_newlines(self, r):$/;"	m	class:View
+status_message	.\sublime.py	/^    def status_message(self, msg):$/;"	m	class:Window
+status_message	.\sublime.py	/^def status_message(msg):$/;"	f
+sublime	.\sublime_plugin.py	/^import sublime$/;"	i
+sublime_api	.\sublime.py	/^import sublime_api$/;"	i
+sublime_api	.\sublime_plugin.py	/^import sublime_api$/;"	i
+substr	.\sublime.py	/^    def substr(self, x):$/;"	m	class:View
+subtract	.\sublime.py	/^    def subtract(self, region):$/;"	m	class:Selection
+symbols	.\sublime.py	/^    def symbols(self):$/;"	m	class:View
+sys	.\sublime.py	/^import sys$/;"	i
+sys	.\sublime_plugin.py	/^import sys$/;"	i
+template_settings	.\sublime.py	/^    def template_settings(self):$/;"	m	class:Window
+text_command_classes	.\sublime_plugin.py	/^text_command_classes = []$/;"	v
+text_point	.\sublime.py	/^    def text_point(self, row, col):$/;"	m	class:View
+text_to_layout	.\sublime.py	/^    def text_to_layout(self, tp):$/;"	m	class:View
+time	.\sublime_plugin.py	/^import time$/;"	i
+traceback	.\sublime_plugin.py	/^import traceback$/;"	i
+transient_sheet_in_group	.\sublime.py	/^    def transient_sheet_in_group(self, group):$/;"	m	class:Window
+transient_view_in_group	.\sublime.py	/^    def transient_view_in_group(self, group):$/;"	m	class:Window
+unfold	.\sublime.py	/^    def unfold(self, x):$/;"	m	class:View
+unload_module	.\sublime_plugin.py	/^def unload_module(module):$/;"	f
+unload_plugin	.\sublime_plugin.py	/^def unload_plugin(modulename):$/;"	f
+update	.\sublime.py	/^    def update(self, new_phantoms):$/;"	m	class:PhantomSet
+update_compressed_packages	.\sublime_plugin.py	/^def update_compressed_packages(pkgs):$/;"	f
+update_popup	.\sublime.py	/^    def update_popup(self, content):$/;"	m	class:View
+version	.\sublime.py	/^def version():$/;"	f
+view	.\sublime.py	/^    def view(self):$/;"	m	class:Sheet
+view_event_listener_classes	.\sublime_plugin.py	/^view_event_listener_classes = []$/;"	v
+view_event_listeners	.\sublime_plugin.py	/^view_event_listeners = {}$/;"	v
+viewport_extent	.\sublime.py	/^    def viewport_extent(self):$/;"	m	class:View
+viewport_position	.\sublime.py	/^    def viewport_position(self):$/;"	m	class:View
+views	.\sublime.py	/^    def views(self):$/;"	m	class:Window
+views_in_group	.\sublime.py	/^    def views_in_group(self, group):$/;"	m	class:Window
+visible_region	.\sublime.py	/^    def visible_region(self):$/;"	m	class:View
+want_event	.\sublime_plugin.py	/^    def want_event(self):$/;"	m	class:Command
+window	.\sublime.py	/^    def window(self):$/;"	m	class:Sheet
+window	.\sublime.py	/^    def window(self):$/;"	m	class:View
+window_command_classes	.\sublime_plugin.py	/^window_command_classes = []$/;"	v
+window_to_layout	.\sublime.py	/^    def window_to_layout(self, xy):$/;"	m	class:View
+window_to_text	.\sublime.py	/^    def window_to_text(self, xy):$/;"	m	class:View
+windows	.\sublime.py	/^def windows():$/;"	f
+word	.\sublime.py	/^    def word(self, x):$/;"	m	class:View
+write	.\sublime.py	/^    def write(self, s):$/;"	m	class:_LogWriter
+yes_no_cancel_dialog	.\sublime.py	/^def yes_no_cancel_dialog(msg, yes_title="", no_title=""):$/;"	f
+zipfile	.\sublime_plugin.py	/^import zipfile$/;"	i

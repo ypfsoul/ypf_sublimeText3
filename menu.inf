@@ -1,0 +1,17 @@
+[Version]
+Signature="$Windows NT$"
+
+
+[DefaultInstall]
+AddReg=SublimeText3
+
+
+[SublimeText3]
+hkcr,"*\\shell\\SublimeText3",,,"用 SublimeText3 打开文件"
+hkcr,"*\\shell\\SublimeText3","Icon",0x20000,"%1%\sublime_text.exe, 0"
+hkcr,"*\\shell\\SublimeText3\\command",,,"""%1%\sublime_text.exe"" ""%%1"" %%*"
+
+
+hkcr,"Directory\shell\SublimeText3",,,"用 SublimeText3 打开目录"
+hkcr,"Directory\shell\SublimeText3","Icon",0x20000,"%1%\sublime_text.exe, 0"
+hkcr,"Directory\shell\SublimeText3\command",,,"""%1%\sublime_text.exe"" ""%%1"" %%*"

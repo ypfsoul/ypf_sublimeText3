@@ -1,0 +1,32 @@
+{
+	 // variants 可选。用来替代主构建系统的备选。如果构建系统的"selector"与激活的文件匹配，变量"name"则会出现在 Command Palette 中。
+    "variants":  
+        [  
+            {  
+                 // 仅在"variants"中是合法的 (详见 variants)。用来标识系统中不同的构建系统。如果"name"是"Run" ,则会显示在Tools | Build System 菜单下，并且可以使用Ctrl + Shift + B调用
+                "name": "Run",  
+                // 可选。如果该选项为"true" ，"cmd"则可以通过shell运行。
+                "shell": true,
+                "cmd" :  ["start","cmd","/c", "E:\\bpt_engine\\app\\src\\main\\assets\\scripts\\win32_debug.bat"],  
+                // /c是执行完命令后关闭cmd窗口,  
+                // /k是执行完命令后不关闭cmd窗口。  
+                // echo. 相当于输入一个回车  
+                // pause命令使cmd窗口按任意键后才关闭  
+                // 可选。在运行首行的"cmd"前会切换到该目录。运行结束后会切换到原来的目录。
+                "working_dir": "${file_path}",  
+            } ,
+                {  
+                 // 仅在"variants"中是合法的 (详见 variants)。用来标识系统中不同的构建系统。如果"name"是"Run" ,则会显示在Tools | Build System 菜单下，并且可以使用Ctrl + Shift + B调用
+                "name": "run_tags",  
+                // 可选。如果该选项为"true" ，"cmd"则可以通过shell运行。
+                "shell": true,  
+                "cmd" :  ["start","cmd","/c", "E:\\bpt_engine\\app\\src\\main\\assets\\scripts\\win32_tags.bat"],  
+                // /c是执行完命令后关闭cmd窗口,  
+                // /k是执行完命令后不关闭cmd窗口。  
+                // echo. 相当于输入一个回车  
+                // pause命令使cmd窗口按任意键后才关闭  
+                // 可选。在运行首行的"cmd"前会切换到该目录。运行结束后会切换到原来的目录。
+                "working_dir": "${file_path}",  
+            }  
+        ]  
+}

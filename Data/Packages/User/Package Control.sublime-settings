@@ -1,0 +1,28 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"All Autocomplete",
+		"ColorPicker",
+		"ConvertToUTF8",
+		"CTags",
+		"Git",
+		"Highlighter",
+		"Markdown Extended",
+		"Markdown Slideshow",
+		"MarkdownLivePreview",
+		"Package Control",
+		"Protobuf Syntax Hightlighting",
+		"SideBarEnhancements",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"SublimeLinter-lua",
+		"SublimeLinter-luacheck",
+		"SyncedSideBar",
+		"SyncedSidebarBg",
+		"VIM Navigation"
+	]
+}
